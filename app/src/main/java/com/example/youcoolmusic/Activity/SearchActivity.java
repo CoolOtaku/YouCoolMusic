@@ -65,7 +65,7 @@ public class SearchActivity extends AppCompatActivity implements View.OnClickLis
         textSort.setOnClickListener(this);
         imageSort.setOnClickListener(this);
 
-        task.execute("https://www.googleapis.com/youtube/v3/search?maxResults=50&part=snippet,id&type=video&q=Музыка&key=AIzaSyAYG7V-7-sAfOotRAXrKM-mu-lg6QMaF_Y");
+        task.execute("https://www.googleapis.com/youtube/v3/search?maxResults=50&part=snippet,id&type=video&q=Музыка&key=[YouTube_API_KEY]");
     }
 
     @Override
@@ -82,7 +82,7 @@ public class SearchActivity extends AppCompatActivity implements View.OnClickLis
                     if(NetWork.hasConnection(SearchActivity.this)) {
                         task = new DownloadJSONTask();
                         task.execute("https://www.googleapis.com/youtube/v3/search?maxResults=50&part=snippet,id&type=video&q=" + URLEncoder.encode(name, String.valueOf(StandardCharsets.UTF_8))
-                                + "&key=AIzaSyA2djfMdxIzV3OdrEpb_eYohFF2_uhNvIw");
+                                + "&key=[YouTube_API_KEY]");
                     }else{
                         toast.showToas(SearchActivity.this,getString(R.string.error_internet),false);
                     }
