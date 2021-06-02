@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/b_export"
+            android:icon="@android:drawable/ic_menu_set_as"
+            android:title="@string/b_export" />
+        <item
+            android:id="@+id/b_import"
+            android:icon="@android:drawable/ic_menu_more"
+            android:title="@string/b_import" />
+        <item
+            android:id="@+id/b_add_play_list"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="@string/b_add_play_list" />
+        <item
+            android:id="@+id/b_delete_play_list"
+            android:icon="@android:drawable/ic_menu_delete"
+            android:title="@string/b_delete_play_list" />
+        <item
+            android:id="@+id/b_about"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="@string/b_about" />
+    </group>
+
+</menu>

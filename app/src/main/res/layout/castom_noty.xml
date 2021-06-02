@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <WebView
+        android:id="@+id/backgroundVideo"
+        android:layout_width="260dp"
+        android:layout_height="130dp"
+        tools:ignore="WebViewLayout" />
+
+    <LinearLayout
+        android:id="@+id/button_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/backgroundVideo"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/back_music"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:background="@android:drawable/ic_media_previous" />
+
+        <Button
+            android:id="@+id/play_pause_music"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:background="@android:drawable/ic_media_play" />
+
+        <Button
+            android:id="@+id/next_music"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:background="@android:drawable/ic_media_next" />
+
+        <Button
+            android:id="@+id/in_statusBar"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/hideicon" />
+
+        <Button
+            android:id="@+id/clouse_music"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="2dp"
+            android:background="@android:drawable/ic_delete" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ln"
+        android:layout_width="1px"
+        android:layout_height="1px"
+        android:layout_alignTop="@+id/button_bar"
+        android:layout_toEndOf="@+id/button_bar"
+        android:background="@color/none"
+        android:orientation="vertical"></LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">YouCoolMusic</string>
+
+    <string name="please_paint_text">Будьласка введіть текст!</string>
+    <string name="delete_video">Видатити відео із плей листа</string>
+    <string name="you_exactly_want_delete_video">Ви дійсно хочете видалити відео?</string>
+    <string name="successfully_append_video">✔ Успішно добавлено відео!</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="start_video_error">Виникла помилка під час загрузки відео, можливо ви не дозволили додатку працювати поверх інших.</string>
+    <string name="error_internet">Виникла помилка, перевірте підключення до інтернету.</string>
+    <string name="b_export">Експортувати плей лист</string>
+    <string name="b_import">Замінити плей лист</string>
+    <string name="b_add_play_list">Добавити плей лист</string>
+    <string name="b_delete_play_list">Видалити плей лист</string>
+    <string name="b_about">Про розробника та додаток</string>
+    <string name="create_play_list">Успішно збережено ваш плей лист в дерикторії DOWNLOADS з іменем YouCoolMusic_PlayList</string>
+    <string name="play_list_overading">Плей лист успішно замінено!</string>
+    <string name="play_list_add">Плей лист успішно додано!</string>
+    <string name="not_found_play_list">Ваш плей лист не знайдено</string>
+    <string name="delete_play_list">Видатити плей лист</string>
+    <string name="you_exactly_want_delete_play_list">Ви дійсно хочете видалити плей лист?</string>
+    <string name="error">Виникла помилка!</string>
+    <string name="main">Головна</string>
+    <string name="sort">Сортування</string>
+    <string name="count_items">Кількість елементів</string>
+    <string name="input_title">Введіть назву або id пісні</string>
+    <string name="copy_video_url">Посилання на відео скопійовано!</string>
+    <string name="my">© Cool_Otaku\nФедорів Назарій Петрович</string>
+    <string name="developer">Розробник</string>
+    <string name="about_developer">Розробник таких проектів як:\n
+    ♪ Coollyator\n
+    ♪ search-games.online(Додаток)\n
+    ♪ YouCoolMusic\n\n
+    Знання мов програмування:\n
+    ♫ Java\n
+    ♫ PHP\n
+    ♫ JavaScript\n
+    \nПроживаю м.Івано-Франківськ с.Братківці будинок і вулицю не буду палити ツ. Навчаюся на 4 курсі ВПУ№21 м.Івано-Франківська.\n
+    На даний момент моє хобі це якраз програмування, люблю дивитися аніме також грати комп\'ютерні ігри.
+    </string>
+    <string name="app">Про додаток</string>
+    <string name="about_app">Додаток створений як аналог YouTube Premium та YouTube Music.\n
+    В цьому додатку ви можете прослуховувати та переглядати відео з YouTube в фоновому режимі і без реклами.
+    Створювати свій плей лист та ділитися ним. Шукати музику на свій смак. І це все безкоштовно!\n\n
+    Примітка:\n
+    Дозвольте додатку працювати поверх інших програм, та дайте йому доступ до пам\'яті пристрою. Це для того щоб він працював!</string>
+</resources>
