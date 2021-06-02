@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMenu">#99000000</color>
+    <color name="colorButton">#2A2E30</color>
+    <color name="colorRed">#DD163B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorgreen">#008000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorBlue">#6B8799</color>
+    <color name="colorGray">#181818</color>
+    <color name="colorBlack">#000000</color>
+    <color name="none">#0000ffff</color>
+</resources>
