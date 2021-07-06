@@ -53,3 +53,11 @@ Link to file from [YouTube_API_KEY](app/src/main/java/com/example/youcoolmusic/A
   <img src="screens/sc3.png" height="500px"/>
   <img src="screens/sc4.png" height="500px"/>
 </p>
+
+## Others
+
+### License
+
+```
+© 2020, CoolOtaku (ericspz531@gmail.com)
+```
