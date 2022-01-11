@@ -1,6 +1,6 @@
 # YouCoolMusic
 
-<p align="center"><img width="128" height="128" src="https://github.com/CoolOtaku/YouCoolMusic/blob/19f76f94e61d6a8745f1af01b9e12dd0384e6d2b/app/src/main/res/drawable/animetan.png" /></p>
+<p align="center"><img height="128" src="https://github.com/CoolOtaku/YouCoolMusic/blob/19f76f94e61d6a8745f1af01b9e12dd0384e6d2b/app/src/main/res/drawable/animetan.png" /></p>
 
 ## EN
 
