@@ -1,8 +1,8 @@
-# YouCoolMusic
-
 <p align="center"><img height="128" src="/app/src/main/res/drawable/animetan.png" /></p>
+<h1 align="center">YouCoolMusic</h1>
 
-## EN
+## Description
+<b>EN:</b>
 
 My analogue is YouTube Music and YouTube Premium.
 
@@ -19,16 +19,7 @@ Using this API key occurs in the following lines:
 
 Link to file from [YouTube_API_KEY](app/src/main/java/com/example/youcoolmusic/Activity/SearchActivity.java).
 
-### Screenshots of the application:
-
-<p>
-  <img src="screens/sc1.png" height="500px"/>
-  <img src="screens/sc2.png" height="500px"/>
-  <img src="screens/sc3.png" height="500px"/>
-  <img src="screens/sc4.png" height="500px"/>
-</p>
-
-## UA
+<b>UA:</b>
 
 Мій аналог - YouTube Music та YouTube Premium.
 
@@ -45,8 +36,8 @@ Link to file from [YouTube_API_KEY](app/src/main/java/com/example/youcoolmusic/A
 
 Посилання на файл із [YouTube_API_KEY](app/src/main/java/com/example/youcoolmusic/Activity/SearchActivity.java).
 
-### Скріншоти додатка:
-
+#
+## Screenshots
 <p>
   <img src="screens/sc1.png" height="500px"/>
   <img src="screens/sc2.png" height="500px"/>
@@ -54,9 +45,20 @@ Link to file from [YouTube_API_KEY](app/src/main/java/com/example/youcoolmusic/A
   <img src="screens/sc4.png" height="500px"/>
 </p>
 
-## Others
+#
 
-### License
+## Technologies used
+
+- Working with the YouTube API
+- Opening windows on top of all other programs (SYSTEM_ALERT_WINDOW)
+- Using notification music player
+- Using the service to play music in the background (FOREGROUND_SERVICE)
+- Working with the local database SQLiteOpenHelper
+- Working with files (Saving and importing playlists)
+
+#
+
+## License
 
 ```
 © 2020, CoolOtaku (ericspz531@gmail.com)
