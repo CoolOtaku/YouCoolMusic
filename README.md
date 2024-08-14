@@ -1,4 +1,4 @@
-<p align="center"><img height="128" src="/app/src/main/res/drawable/animetan.png"/></p>
+<p align="center"><img height="128" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/></p>
 <h1 align="center">YouCoolMusic</h1>
 
 ## Description
