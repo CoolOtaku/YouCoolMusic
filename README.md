@@ -48,20 +48,24 @@ Link to file from [**YouTube_API_KEY**](app/src/main/java/com/example/youcoolmus
 #
 ## Technologies used
 <b>EN:</b>
-- Working with the **YouTube API**
+- Working with the [**YouTube API**](https://developers.google.com/youtube/v3)
 - Opening windows on top of all other programs (***SYSTEM_ALERT_WINDOW***)
-- Using notification music player
+- Using the music player in the status bar
 - Using the service to play music in the background (***FOREGROUND_SERVICE***)
-- Working with the local database **SQLiteOpenHelper**
+- Working with the local database [**SQLiteOpenHelper**](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)
 - Working with files (Saving and importing playlists)
+- Using the element interface to display a list of elements from an array ([**RecyclerView**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView))
+- Image caching and rendering via [**Picasso**](https://square.github.io/picasso/)
 
 <b>UA:</b>
-- Робота з **YouTube API**
+- Робота з [**YouTube API**](https://developers.google.com/youtube/v3)
 - Відкриття вікон поверх усіх інших програм (***SYSTEM_ALERT_WINDOW***)
-- Використання музичного плеєра сповіщень
+- Використання музичного плеєра в статус-барі
 - Використання сервісу для відтворення музики у фоновому режимі (***FOREGROUND_SERVICE***)
-- Робота з локальною базою даних **SQLiteOpenHelper**
+- Робота з локальною базою даних [**SQLiteOpenHelper**](https://developer.android.com/reference/android/database/sqlite/SQLiteOpenHelper)
 - Робота з файлами (Збереження та імпорт списків відтворення)
+- Використання інтерфейсу елемента для відображення списку елементів з масиву ([**RecyclerView**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView))
+- Кешування та відображення зображення через [**Picasso**](https://square.github.io/picasso/)
 
 #
 ## License
